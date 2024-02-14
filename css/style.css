@@ -52,3 +52,13 @@
   color: aliceblue;
   margin-left: 37px;
 }
+.oper {
+  width: 70px;
+  height: 70px;
+  background-color: orange;
+  border: 2px solid black;
+  border-radius: 50px;
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
